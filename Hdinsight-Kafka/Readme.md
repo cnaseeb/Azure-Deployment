@@ -1,5 +1,5 @@
 
-### Deployment of Kafka cluster 9based on teh following guide
+### Deployment of Kafka cluster based on the following guide: 
 
 https://docs.microsoft.com/en-us/azure/hdinsight/kafka/apache-kafka-get-started
 
